@@ -23,5 +23,5 @@ Usage:
 
 * Clone the repository.
 * Install the required dependencies (e.g., `pip install pandas matplotlib`).
-* Run the collab Notebook to execute the preprocessing and visualization steps.
+* Run the jupyter Notebook to execute the preprocessing and visualization steps.
 
